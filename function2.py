@@ -18,5 +18,5 @@ print(
      +str(d))
     
 print(
-    'Multiplication is'
+    'Multiplication is '
      +str(m))
