@@ -18,7 +18,5 @@ print(
      +str(b))
     
 print(
-    'output is equal to '
-     +str(s))
+    'output is equal to ' +str(s))
 
-     
